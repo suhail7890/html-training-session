@@ -23,5 +23,9 @@ all HTML files will be uploaded here
     <td>activity-3</td>
     <td>understanding of External java cript</td>
   </tr>
+  <td>4</td>
+    <td>activity-4</td>
+    <td>understanding no script tag</td>
+  </tr>
   </table>
   
