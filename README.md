@@ -78,5 +78,10 @@ all HTML files will be uploaded here
     <td>activity-14</td>
     <td>Provide Border To The Same Table</td>
   </tr>
+  <tr>
+    <td>15</td>
+    <td>activity-15</td>
+    <td>Headings from H1 to H6</td>
+  </tr>
 </table>
   
