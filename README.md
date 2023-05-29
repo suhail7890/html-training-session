@@ -53,5 +53,10 @@ all HTML files will be uploaded here
     <td>activity-9</td>
     <td>Redirect Your Web Document After 5 Sec to another website </td>
   </tr>
+  <tr>
+    <td>10</td>
+    <td>activity-10</td>
+    <td>Background Image for Body </td>
+  </tr>
 </table>
   
