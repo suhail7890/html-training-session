@@ -63,5 +63,10 @@ all HTML files will be uploaded here
     <td>activity-11</td>
     <td>Anchor Tags </td>
   </tr>
+  <tr>
+    <td>12</td>
+    <td>activity-12</td>
+    <td>Html Entities and Html comments</td>
+  </tr>
 </table>
   
