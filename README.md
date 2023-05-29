@@ -83,5 +83,10 @@ all HTML files will be uploaded here
     <td>activity-15</td>
     <td>Headings from H1 to H6</td>
   </tr>
+  <tr>
+    <td>16</td>
+    <td>activity-16</td>
+    <td>Paragraphs in Html</td>
+  </tr>
 </table>
   
