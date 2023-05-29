@@ -48,5 +48,10 @@ all HTML files will be uploaded here
     <td>activity-8</td>
     <td>Internal Style Sheet </td>
   </tr>
+  <tr>
+    <td>9</td>
+    <td>activity-9</td>
+    <td>Redirect Your Web Document After 5 Sec to another website </td>
+  </tr>
 </table>
   
