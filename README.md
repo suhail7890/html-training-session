@@ -38,5 +38,10 @@ all HTML files will be uploaded here
     <td>activity-6</td>
     <td>Insert the Icon For Web Documents</td>
   </tr>
+  <tr>
+    <td>7</td>
+    <td>activity-7</td>
+    <td>Title For Web Document</td>
+  </tr>
 </table>
   
