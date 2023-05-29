@@ -68,5 +68,10 @@ all HTML files will be uploaded here
     <td>activity-12</td>
     <td>Html Entities and Html comments</td>
   </tr>
+  <tr>
+    <td>13</td>
+    <td>activity-13</td>
+    <td>Create Table to Display  your Team Members</td>
+  </tr>
 </table>
   
