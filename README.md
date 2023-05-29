@@ -28,11 +28,15 @@ all HTML files will be uploaded here
     <td>activity-4</td>
     <td>understanding no script tag</td>
   </tr>
-  </table>
   <tr>
   <td>5</td>
     <td>activity-5</td>
     <td>Create a External CSS,and link it using link tag</td>
   </tr>
-  </table>
+  <tr>
+    <td>6</td>
+    <td>activity-6</td>
+    <td>Insert the Icon For Web Documents</td>
+  </tr>
+</table>
   
