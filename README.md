@@ -88,5 +88,10 @@ all HTML files will be uploaded here
     <td>activity-16</td>
     <td>Paragraphs in Html</td>
   </tr>
+  <tr>
+    <td>17</td>
+    <td>activity-17</td>
+    <td>HR and BR in HTML</td>
+  </tr>
 </table>
   
