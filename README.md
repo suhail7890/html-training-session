@@ -43,5 +43,10 @@ all HTML files will be uploaded here
     <td>activity-7</td>
     <td>Title For Web Document</td>
   </tr>
+  <tr>
+    <td>8</td>
+    <td>activity-8</td>
+    <td>Internal Style Sheet </td>
+  </tr>
 </table>
   
